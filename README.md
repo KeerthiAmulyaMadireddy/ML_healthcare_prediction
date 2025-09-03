@@ -1,2 +1,2 @@
-# ML_healthcare_prediction
-Health Insurance Prediction project
+# ml-project-premium-prediction
+Codebasics ML Course health insurance prediction project
